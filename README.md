@@ -3,6 +3,7 @@ TinyCLI https://opentiny.design/tiny-cli/docs/start
 
 #### 初始化
 tiny init pro
+https://opentiny.design/vue-pro/docs/start
 
 #### 安装nacos
 
